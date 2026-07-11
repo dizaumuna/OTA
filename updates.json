@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "device": "miatoll",
+      "region": "China",
+      "status": "Stable",
+      "android_version": "16.0",
+      "rom": "ColorOS",
+      "version_code": 1,
+      "build_date": "2026-07-11",
+      "filename": "miatoll_cn-ota_full-ColorOS-stable-16.0-port.zip",
+      "download_url": "https://pixeldrain.com/api/file/1Ka92yq2",
+      "size_bytes": 4197742228,
+      "md5": "277d408da867fc105666c605615f32cd8c2a4ba307a02065798437241a1657d5",
+      "changelog": "Initial ColorOS 16 Port."
+    }
+  ]
+}
