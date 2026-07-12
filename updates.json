@@ -7,12 +7,12 @@
       "android_version": "16.0",
       "rom": "ColorOS",
       "version_code": 2,
-      "build_date": "2026-07-11",
-      "filename": "miatoll_cn-ota_full-ColorOS-stable-16.0-port.zip",
-      "download_url": "https://cdn.pixeldrain.eu.cc/1Ka92yq2",
-      "size_bytes": 4197742228,
-      "md5": "277d408da867fc105666c605615f32cd8c2a4ba307a02065798437241a1657d5",
-      "changelog": "Initial ColorOS 16 Port."
+      "build_date": "2026-07-12",
+      "filename": "miatoll-ota_full-ColorOS-16_HotFix.zip",
+      "download_url": "https://cdn.pixeldrain.eu.cc/vBFRVAjr",
+      "size_bytes": 4206784686,
+      "md5": "bff74bc7f832b039078fc0b6e015ade6d1eaf64730e6f1a45da95ecaddf26dfb",
+      "changelog": "- OTA app integrated\n- Pre-rooted with Magisk\n- Disabled liquid glass\n- Made firmware really smooth (up to %150 performance boost)\n- Clock app added\n- Fixed Device Name\n- Fixed Processor Name\n- Fixed Model Name"
     }
   ]
 }
