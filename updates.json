@@ -6,13 +6,13 @@
       "status": "Stable",
       "android_version": "16.0",
       "rom": "ColorOS",
-      "version_code": 2,
-      "build_date": "2026-07-12",
-      "filename": "miatoll-ota_full-ColorOS-16_HotFix.zip",
-      "download_url": "https://cdn.pixeldrain.eu.cc/vBFRVAjr",
-      "size_bytes": 4206784686,
-      "md5": "bff74bc7f832b039078fc0b6e015ade6d1eaf64730e6f1a45da95ecaddf26dfb",
-      "changelog": "- OTA app integrated\n- Pre-rooted with Magisk\n- Disabled liquid glass\n- Made firmware really smooth (up to %150 performance boost)\n- Clock app added\n- Fixed Device Name\n- Fixed Processor Name\n- Fixed Model Name"
+      "version_code": 3,
+      "build_date": "2026-07-14",
+      "filename": "miatoll_cn-ota_full-ColorOS-userdebug-16.0.zip",
+      "download_url": "https://cdn.pixeldrain.eu.cc/NREgV8af",
+      "size_bytes": 4206654192,
+      "md5": "932f3a5dfbcee019a96c387daca6c12cadfd4880acbe7f28b93df6b6c70fed6b",
+      "changelog": "- Improved system stability\n- You can now add a 2x1 Weather Clock widget to the Home screen."
     }
   ]
 }
